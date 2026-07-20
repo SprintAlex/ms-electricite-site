@@ -1,6 +1,6 @@
 # Site vitrine — MS Électricité
 
-Site statique (HTML/CSS/JS pur) pour **MS Électricité**, électricien à Baziège (31).
+Site statique (HTML/CSS/JS pur) pour **MS Électricité**, électricien à Bagnac-sur-Célé (46).
 Objectif : générer des demandes de devis. Prévu pour **GitHub Pages**.
 Design re-skinné depuis la maquette Abrasive (« Précision & courant » : charbon/acier + accent ambre, Space Grotesk).
 
