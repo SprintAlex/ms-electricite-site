@@ -1,0 +1,9 @@
+# Fichiers internes — ne jamais publier (PII, notes prospection, prompts, devis)
+*.md
+devis*
+*.pdf
+OUTREACH*
+MAIL_ET_OBJECTIONS*
+PROMPT*
+AGENTS.md
+CLAUDE.md
