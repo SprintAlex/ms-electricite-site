@@ -129,7 +129,12 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 500; line-height: 1.05; let
 }
 .brand {
   font-family: var(--serif); font-size: 1.32rem; letter-spacing: 0.02em;
-  display: flex; align-items: baseline; gap: 0.5ch;
+  display: flex; align-items: center; gap: 0.6ch;
+}
+.brand-logo {
+  width: 40px; height: 40px; border-radius: 50%;
+  object-fit: cover; flex: none;
+  box-shadow: 0 0 0 1px var(--line-soft);
 }
 .brand b { font-weight: 500; }
 .brand span { font-family: var(--sans); font-size: 0.6rem; letter-spacing: 0.34em; text-transform: uppercase; color: var(--ink-soft); }
